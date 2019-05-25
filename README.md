@@ -1,6 +1,6 @@
 
 
-# Dynamic Selection of Fitness Function  (DSF) for feature selection in software defect prediction
+# Dynamic Selection of fitness function in genetic algorithms for feature selection in software defect prediction
 
 In this study, we consider three fitness functions, Accuracy, F Measure,and Voting and Validation, and use them to select features in twenty-four software datasets for feature selection. Based on the performance of a classifier on these selected features, using the DSF algorithm we select the fitness function which is most likely to correctly predict the defect susceptibility of a new class intance.
 
